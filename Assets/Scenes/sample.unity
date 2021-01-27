@@ -172,7 +172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecdfc83fac6d04d8a93dc0e311825e88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  angularVelocity: -120
+  angularVelocity: -12
   rotationAxis: {x: 0, y: 1, z: 0}
 --- !u!20 &285986771
 Camera:

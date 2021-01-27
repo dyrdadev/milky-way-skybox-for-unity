@@ -82,8 +82,8 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "io.dyrda.milky-way-skymap": {
-      "version": "file:io.dyrda.milky-way-skymap",
+    "io.dyrda.milky-way-skybox": {
+      "version": "file:io.dyrda.milky-way-skybox",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
