@@ -1,0 +1,14 @@
+{
+  "name": "io.dyrda.milky-way-skybox",
+  "version": "0.0.1",
+  "displayName": "Milky Way Skybox",
+  "description": "",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [],
+  "author": {
+    "name": "Daniel Dyrda",
+    "email": "daniel@dyrda.io",
+    "url": "https://www.dyrda.io"
+  }
+}
