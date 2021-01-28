@@ -8,4 +8,4 @@ This package contains third-party content governed by the license(s) indicated b
 - License Type: [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 - Created by: [European Southern Observatory/ Serge Brunier (ESO/S. Brunier)](https://www.eso.org/public/images/eso0932a/)
 - More information: You can find more information in the corresponding web page [here](https://www.eso.org/public/images/eso0932a/).
-- Comment: This package includes the "The Milky Way panorama" images by ESO/S. Brunier. These textures in this project are also shared under the same license.
+- Comment: This package includes the "The Milky Way panorama" images by ESO/S. Brunier. The original terms and conditions apply to these assets.
