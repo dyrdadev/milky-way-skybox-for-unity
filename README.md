@@ -33,7 +33,7 @@ You can do this by using the Package Manager window or the manifest.json directl
 1. **Installing from a Git URL using the Package Manager window.** Open the Package Manager window. Click "+", then "Add package from git URL" and enter the git URL from above. You can find more information [here](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
 2. **Installing from a Git URL using the manifest.json.** You can add a new entry to the manifest.json file in the ``Packages`` folder of your unity project: ```"io.dyrda.milky-way-skybox": "https://github.com/dyrdaio/milky-way-skybox-for-unity.git#upm"```. You can find more information [here](https://docs.unity3d.com/Manual/upm-git.html).
 
-If you use this package in your project, make sure that in addition to the license of this project, you also take into account any different licenses of the third-party content. This includes, for example, that you also provide credit for the third-party content.
+If you use this package in your project, be sure to include the licenses of third-party content and marked assets in addition to the license of this project. This includes, for example, that you also provide credit for the third-party content in your project.
 
 ## Third Party Content
 
