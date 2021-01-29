@@ -20,6 +20,16 @@ The package contains three different quality levels of texture. However, all thr
 
 If the Milky Way isn't enough for you, and you also need an Earth and Moon, check out the package ["Moon and Earth"](https://github.com/keijiro/MoonAndEarth) by [Keijiro Takahashi](https://github.com/keijiro).
 
+<p align=center>
+    <br>
+    <br> 
+    <a href="https://github.com/dyrdaio/milky-way-skybox-for-unity">
+        <img src="./Media/guess_the_distance_for_gif_4.gif" alt="The Milky Way as Skybox in Unity."/>
+    </a>
+    <br>
+    <br>
+</p>
+
 ## Install the Package
 
 You can install this package with unity's [package manager](https://docs.unity3d.com/Manual/PackagesList.html).
