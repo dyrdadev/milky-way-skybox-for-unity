@@ -14,7 +14,7 @@ This package contains the amazing [Milky Way panorama](https://www.eso.org/publi
     <br>
 </p>
 
-The credit for the ["The Milky Way panorama"](https://www.eso.org/public/images/eso0932a/) go to the European Southern Observatory / Serge Brunier (ESO/S. Brunier). The images are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The credit for the ["The Milky Way panorama"](https://www.eso.org/public/images/eso0932a/) goes to the European Southern Observatory / Serge Brunier (ESO/S. Brunier). The images are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 The package contains three different quality levels of texture. However, all three are relatively large. If you need a skybox with a smaller size, you can adjust the import settings of the textures. Pay attention to the fact that the textures differ not only with regard to the import settings: they are different textures (Tiff vs. JPG + different resolutions.)
 
