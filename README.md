@@ -7,7 +7,7 @@ This package contains the amazing [Milky Way panorama](https://www.eso.org/publi
 <p align=center>
     <br>
     <br> 
-    <a href="https://github.com/dyrdaio/milky-way-skybox-for-unity">
+    <a href="https://github.com/dyrdadev/milky-way-skybox-for-unity">
         <img src="./Media/milky_way_2.gif" alt="The Milky Way as Skybox in Unity."/>
     </a>
     <br>
@@ -54,7 +54,7 @@ If the Milky Way isn't enough for you, and you also need an Earth and Moon, chec
 <p align=center>
     <br>
     <br> 
-    <a href="https://github.com/dyrdaio/milky-way-skybox-for-unity">
+    <a href="https://github.com/dyrdadev/milky-way-skybox-for-unity">
         <img src="./Media/guess_the_distance_for_gif_4.gif" alt="The Milky Way as Skybox in Unity."/>
     </a>
     <br>
