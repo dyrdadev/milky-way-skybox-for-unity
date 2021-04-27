@@ -44,7 +44,7 @@ Some (third party) assets in this project may be shared under a different licens
 
 ## Support & Contribute
 
-This repository was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdaio)](https://github.com/dyrdadev) and [twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda). Just come by and say hello, I would love to hear how you use the project.
+This repository was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdadev)](https://github.com/dyrdadev) and [twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda). Just come by and say hello, I would love to hear how you use the project.
 
 If you want to contribute to this project, you are welcome to do so. Just write me ([Daniel Dyrda](https://dyrda.io)) and we will find a way to collaborate.
 
