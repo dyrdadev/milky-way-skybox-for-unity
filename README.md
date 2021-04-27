@@ -29,7 +29,7 @@ You can install the package using a Git URL. This is possible for direct depende
 You can do this by using the Package Manager window or the manifest.json directly:
 
 1. **Installing from a Git URL using the Package Manager window.** Open the Package Manager window. Click "+", then "Add package from git URL" and enter the git URL from above. You can find more information [here](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
-2. **Installing from a Git URL using the manifest.json.** You can add a new entry to the manifest.json file in the ``Packages`` folder of your unity project: ```"dev.dyrda.milky-way-skybox": "https://github.com/dyrdadev/milky-way-skybox-for-unity.git#upm"```. You can find more information [here](https://docs.unity3d.com/Manual/upm-git.html).
+2. **Installing from a Git URL using the manifest.json.** You can add a new entry to the manifest.json file in the ``Packages`` folder of your unity project: ```"dev.dyrda.milky-way-skybox": "https://github.com/dyrdadev/milky-way-skybox-for-unity.git#0.0.2"```. You can find more information [here](https://docs.unity3d.com/Manual/upm-git.html).
 
 If you use this package in your project, be sure to include the licenses of third-party content and marked assets in addition to the license of this project. This includes, for example, that you also provide credit for the third-party content in your project.
 
@@ -44,7 +44,7 @@ Some (third party) assets in this project may be shared under a different licens
 
 ## Support & Contribute
 
-This repository was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdaio)](https://github.com/dyrdadev) and [twitter (@dyrdaio)](https://twitter.com/daniel_dyrda). Just come by and say hello, I would love to hear how you use the project.
+This repository was created by [Daniel Dyrda](https://dyrda.io). If you want to support me and my projects, you can follow me on [github (dyrdadev)](https://github.com/dyrdadev) and [twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda). Just come by and say hello, I would love to hear how you use the project.
 
 If you want to contribute to this project, you are welcome to do so. Just write me ([Daniel Dyrda](https://dyrda.io)) and we will find a way to collaborate.
 
