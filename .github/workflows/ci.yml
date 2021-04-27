@@ -9,12 +9,12 @@ jobs:
     name: Deploy to UPM
     runs-on: ubuntu-latest
     env:
-        PKG_ROOT: Packages/io.dyrda.milky-way-skybox
+        PKG_ROOT: Packages/dev.dyrda.milky-way-skybox
     steps:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0   
-    - name: copy files of th emain branch to temp
+    - name: copy files of the main branch to temp
       run: |
         mkdir temp
         cp README.md temp/
