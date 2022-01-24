@@ -20,12 +20,11 @@ The package contains three different quality levels of texture. However, all thr
 
 ## Install the Package
 
-You can install this package with unity's [package manager](https://docs.unity3d.com/Manual/PackagesList.html) using a Git URL. Add a new package with the git-HTTPS URL to the version you want to install in the form ```https://github.com/dyrdadev/milky-way-skybox-for-unity.git#{version}```, where {version} is the actual version of the release you want to install. For example, if you want to install version "0.0.3" of this package, you can refer to ```https://github.com/dyrdadev/milky-way-skybox-for-unity.git#0.0.3```.
+1. Open the Package Manager window in your Unity editor (Window ➜ Package Manager)
+2. Click "+" in the upper left corner ➜ "Add package from git URL" 
+3. Enter the Git URL of the latest release: ```https://github.com/dyrdadev/milky-way-skybox-for-unity.git#0.0.3``` and click "Add"
 
-You can do this by using the Package Manager window or the manifest.json directly:
-
-1. **Installing from a Git URL using the Package Manager window.** Open the Package Manager window. Click "+", then "Add package from git URL" and enter the git URL from above. You can find more information [here](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
-2. **Installing from a Git URL using the manifest.json.** You can add a new entry to the manifest.json file in the ``Packages`` folder of your unity project: ```"dev.dyrda.milky-way-skybox": "https://github.com/dyrdadev/milky-way-skybox-for-unity.git#0.0.3"```. You can find more information [here](https://docs.unity3d.com/Manual/upm-git.html).
+> You can find more information [here](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
 
 > Please note: If you use this package in your project, be sure to include the licenses of third-party content and marked assets in addition to the license of this project. This includes, for example, that you also provide credit for the third-party content in your project.
 
