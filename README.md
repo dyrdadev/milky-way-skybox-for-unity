@@ -32,7 +32,7 @@ You can do this by using the Package Manager window or the manifest.json directl
 
 ## License & Third Party Content
 
-This project is licensed under a MIT license. See the [LICENSE](/LICENSE) file for details.
+This project is licensed under an MIT license. See the [LICENSE](/LICENSE) file for details.
 
 Many assets of this project including the images of the Milky Way were created by other people and may be shared under a different license. Check out the README files in the directories and the [Third Party Content](/ThirdPartyContent.md) file for details.
 
