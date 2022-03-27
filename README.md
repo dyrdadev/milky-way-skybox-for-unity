@@ -46,6 +46,8 @@ If you want to contribute to this project, you are welcome to do so. Just write 
 ---
 If the Milky Way isn't enough for you and you also need an Earth and Moon, check out the ["Moon and Earth"](https://github.com/keijiro/MoonAndEarth) package by [Keijiro Takahashi](https://github.com/keijiro).
 
+The credit for the ["Blue Marble"](https://visibleearth.nasa.gov/collection/1484/blue-marble) images goes to Visible Earth and the National Aeronautics and Space Administration (NASA).
+
 <p align=center>
     <br>
     <br> 
