@@ -39,7 +39,7 @@ Many assets of this project, including the images of the Milky Way were created 
 
 ## Support & Contribute
 
-This repository was created by [Daniel Dyrda](https://dyrda.page). If you want to support me and my projects, you can follow me on [GitHub (dyrdadev)](https://github.com/dyrdadev) and [Twitter (@daniel_dyrda)](https://twitter.com/daniel_dyrda). Just come by and say hello! I would love to hear how you are using the project.
+This repository was created by [Daniel Dyrda](https://dyrda.page). If you want to support me and my projects, you can follow me on [GitHub (dyrdadev)](https://github.com/dyrdadev) and [Mastodon](https://dyrda.page/contact). Just come by and say hello! I would love to hear how you are using the project.
 
 If you want to contribute to this project, you are welcome to do so. Just write to me ([Daniel Dyrda](https://dyrda.page)) and we will find a way to collaborate.
 
